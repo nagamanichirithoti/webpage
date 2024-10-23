@@ -1,0 +1,93 @@
+body{
+    padding: o;
+    margin: o;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+header{
+    background-color: lightcoral;
+    text-align: center;
+    padding: 20px;
+}
+h2{
+    margin-right: 120px;
+}
+nav a{
+   padding: 10px 10px;
+}
+section{
+    margin: 20px;
+}
+footer{
+    background-color: lightgreen;
+    text-align: center;
+    padding: 5px;
+}
+
+table,th,td{
+    border: 1px solid black;
+    text-align: center;
+    border-collapse: collapse;
+    padding: 10px 30px;
+    margin-top: 10px;
+}
+th{
+    background-color: purple;
+    color: white;
+}
+.cars{
+    background-color: aquamarine;
+    text-align: center;
+    padding: 10px;
+    margin: 10px;
+}
+.rrs{
+    background-color: lightpink;
+    text-align: center;
+    padding: 10px;
+    margin: 10px;
+}
+.bugcars{
+    background-color: lightseagreen;
+    text-align: center;
+    padding: 10px;
+    margin: 10px;
+}
+button{
+    padding: 10px 20px;
+    background-color: palevioletred;
+    color: white;
+    border: none;
+    border-radius: 10px;
+    margin-top: 10px;
+    font-size: 20px;
+}
+ol{
+    margin: 10px;
+}
+li{
+    padding: 15px;
+}
+.img1{
+    background-color: grey;
+    text-align: center;
+}
+.img2{
+    background-color: yellow;
+    text-align: center;
+}
+form{
+    text-align: center;
+    
+}
+input{
+    margin: 10px;
+}
+span{
+    float: right;
+}
+.text{
+    color: green;
+    font-size: 30px;
+    text-align: center;
+}
